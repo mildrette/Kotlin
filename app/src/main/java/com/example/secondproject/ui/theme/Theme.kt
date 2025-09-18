@@ -1,4 +1,4 @@
-package com.example.fistapplication.ui.theme
+package com.example.secondproject.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun FistApplicationTheme(
+fun SecondProjectTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,

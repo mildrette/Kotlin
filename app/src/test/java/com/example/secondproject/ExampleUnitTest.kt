@@ -1,4 +1,4 @@
-package com.example.fistapplication
+package com.example.secondproject
 
 import org.junit.Test
 

@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Fist Application"
+rootProject.name = "SecondProject"
 include(":app")
  
